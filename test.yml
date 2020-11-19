@@ -1,2 +1,2 @@
-config
- info: testenvironment
+server
+ port: 9999
